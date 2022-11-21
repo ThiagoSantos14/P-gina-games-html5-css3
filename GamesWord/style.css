@@ -1,0 +1,24 @@
+.foto-topo {
+    text-align: center;
+}
+
+.navegacao {
+    text-align: right;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    color: white;
+}
+
+article {
+    color: white;
+}
+
+.rodape {
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
